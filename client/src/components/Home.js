@@ -63,13 +63,13 @@ class Home extends Component {
 const styles = {
   iframe: {
     width: '100%',
-    height: '100vh'
+    height: '100vh',
   },
   centered: {
     margin: '0 auto',
   },
   header: {
-    color: '#2ecc40'
+    color: '#2ecc40',
   }
 }
 
